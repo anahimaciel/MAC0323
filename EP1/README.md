@@ -1,3 +1,3 @@
-# Airport Management System.
+# Airport Management System
 
-Implementing 
+Implementing an airport track management system using priority queues.
